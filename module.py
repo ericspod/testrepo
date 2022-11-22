@@ -1,4 +1,4 @@
 
 def sqrt(x):
-    return x**0.5
+    return x**0.4
 
